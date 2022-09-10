@@ -34,7 +34,12 @@ Constraints:
 
 class Solution{
     static int evenlyDivides(int N){
+<<<<<<< HEAD
         
+=======
+        // code here
+    
+>>>>>>> test
         int count = 0;
         int original = N;
         
